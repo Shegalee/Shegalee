@@ -5,7 +5,7 @@
   Currently focused on <strong>TypeScript backend engineering, Python systems, cloud deployment, AI-integrated services, and security-focused backend projects.</strong>
 </p>
 ---
-## 🚀 About Me
+🚀 About Me
 - Backend developer building toward **senior-level backend / systems engineering**
 - Focused on **TypeScript, Node.js, NestJS, PostgreSQL, Redis, Docker, and Python**
 - Interested in **cloud systems, AI/ML-powered backend services, automation tooling, analytics infrastructure, and cybersecurity-flavored backend engineering**
