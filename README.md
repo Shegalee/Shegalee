@@ -1,4 +1,4 @@
-# Hi, I'm John Adesegha
+# Hi, I'm Edwin Osokhia.
 
 ### Backend Engineer | Systems Developer | AI & Cloud Enthusiast
 
